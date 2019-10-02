@@ -107,7 +107,7 @@ Service
     margin-top: 60px;
 }
 #article .service .block {
-    margin: 100px auto;
+    margin: 50px auto;
 }
 #article .service .title {
     font-size: 30px;
@@ -423,7 +423,7 @@ Service
 #article .service {
 }
 #article .service > .main:first-child {
-    padding: 16vw 0 21.333vw;
+    padding: 2vw 0 21.333vw;
 }
 #article .service .block {
     margin: 80vh 0 0;
@@ -479,7 +479,7 @@ Service
 News
 ----------*/
 #article .news {
-    padding-top: 53.333vw;
+    padding-top: 10vw;
 }
 #article .news .excerpt {
     border-bottom: 1px solid #e2e2e4;
