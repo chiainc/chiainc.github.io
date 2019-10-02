@@ -140,7 +140,7 @@ Service
 News
 ----------*/
 #article .news {
-    margin-top: 210px;
+    margin-top: 80px;
 }
 #article .news .news_lists {
     margin-top: 80px;
@@ -251,7 +251,7 @@ Contact
 Company
 ----------*/
 #article .company {
-    margin-top: 145px;
+    margin-top: 60px;
 }
 #article .company #map {
     margin-top: 80px;
