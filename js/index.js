@@ -1,21 +1,21 @@
 $(function(){
 
     //sp　背景　パララックス
-    if(navigator.userAgent.match(/(iPhone|iPad|iPod|Android)/)){
-        $(window).scroll(function() {
-            var window_height = $(window).height();
-            var current_scroll = $(this).scrollTop();
-            //bg01の調整
-            var bg01_height = window_height - current_scroll;
-            $(".bg01").css("height", bg01_height + "px");
-            //bg02の調整
-            var bg02_position = $('.bg02 + .block.main').offset();
-            $(".bg02").css("height", ((bg02_position.top - current_scroll)) + 1 + "px");
-            //bg03の調整
-            var bg03_position = $('.bg03 + .block.main').offset();
-            $(".bg03").css("height", ((bg03_position.top - current_scroll)) + 1 + "px");
-        })
-    }
+    // if(navigator.userAgent.match(/(iPhone|iPad|iPod|Android)/)){
+    //     $(window).scroll(function() {
+    //         var window_height = $(window).height();
+    //         var current_scroll = $(this).scrollTop();
+    //         //bg01の調整
+    //         var bg01_height = window_height - current_scroll;
+    //         $(".bg01").css("height", bg01_height + "px");
+    //         //bg02の調整
+    //         var bg02_position = $('.bg02 + .block.main').offset();
+    //         $(".bg02").css("height", ((bg02_position.top - current_scroll)) + 1 + "px");
+    //         //bg03の調整
+    //         var bg03_position = $('.bg03 + .block.main').offset();
+    //         $(".bg03").css("height", ((bg03_position.top - current_scroll)) + 1 + "px");
+    //     })
+    // }
     //sp 縦横判定
     var isLandscape = function(){
         if (window.innerHeight > window.innerWidth) {
@@ -23,11 +23,11 @@ $(function(){
         }else{
             $(".fixed.bg01, .fixed.bg02, .fixed.bg03").addClass("landscape")
         }
-    }
+    };
     $(window).resize(function(){
         isLandscape();
     });
-    isLandscape();     
+    isLandscape();
 });
 
 
