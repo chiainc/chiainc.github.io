@@ -69,7 +69,7 @@ Top
 ----------*/
 #article .top .bg01 {
     position: relative;
-    background: url(../img/bg01.jpg) no-repeat top center;
+    background: url(./img/bg01.jpg) no-repeat top center;
     background-attachment: fixed;
     height: 80vh;
     width: 100%;
@@ -118,7 +118,7 @@ Service
     margin-top: 25px;
 }
 #article .service .bg02 {
-    background: url(../img/bg02.jpg) no-repeat top center;
+    background: url(./img/bg02.jpg) no-repeat top center;
     position: relative;
     background-attachment: fixed;
     height: 80vh;
@@ -128,7 +128,7 @@ Service
     background-size: cover;
 }
 #article .service .bg03 {
-    background: url(../img/bg03.jpg) no-repeat top center;
+    background: url(./img/bg03.jpg) no-repeat top center;
     position: relative;
     background-attachment: fixed;
     height: 80vh;
