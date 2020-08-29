@@ -623,6 +623,7 @@ footer
     background: #29282e;
     padding: 6.667vw 0;
     color: #fff;
+    
 }
 .footer ul {
     text-align: center;
@@ -658,5 +659,8 @@ footer
     display: block;
     margin-top: 4vw;
     font-size: 3.2vw;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 }
