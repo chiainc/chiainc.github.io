@@ -70,8 +70,8 @@ Top
 #article .top .bg01 {
     position: relative;
     background: url(/img/bg01.jpg) no-repeat top center;
-    background-attachment: fixed;
-    height: 80vh;
+    /*background-attachment: fixed;*/
+    height: 100vh;
     width: 100%;
     z-index: -1;
     background-size: cover;
@@ -120,21 +120,22 @@ Service
 #article .service .bg02 {
     background: url(/img/bg02.jpg) no-repeat top center;
     position: relative;
-    background-attachment: fixed;
-    height: 80vh;
+    /*background-attachment: fixed;*/
+    height: 100vh;
     width: 100%;
     z-index: -1;
     margin-top: 80px;
-    background-size: cover;
+    background-position-y: 50%;
+    /*background-size: cover;*/
 }
 #article .service .bg03 {
     background: url(/img/bg03.jpg) no-repeat top center;
     position: relative;
-    background-attachment: fixed;
-    height: 80vh;
+    /*background-attachment: fixed;*/
+    height: 100vh;
     width: 100%;
     z-index: -1;
-    background-size: cover;
+    /*background-size: cover;*/
 }
 /*----------
 News
@@ -332,7 +333,7 @@ SP
 Common
 ----------*/
 body{
-    background: #29282e;
+    /*background: #29282e;*/
 }
 .bg_white {
     background: #fff;
@@ -373,26 +374,26 @@ body{
 Top
 ----------*/
 #article .top {
-    margin-top: 80vh;
-    position: relative;
+    /*margin-top: 80vh;*/
+    /*position: relative;*/
 }
 #article .top .bg01 {
-    position: fixed;
-    background: url(../img/bg01.jpg) no-repeat top center;
-    background-size: auto 100vh;
-    height:100vh;
-    width: 100%;
-    top: 0;
-    z-index: -1;
+    /*position: absolute;*/
+    background: url(/img/bg01.jpg) no-repeat top center;
+    background-size: auto 100%;
+    height: 100vh;
+    /*width: 100%;*/
+    /*top: 0;*/
+    /*z-index: -1;*/
 }
 #article .top .bg01.landscape {
-    position: fixed;
-    background: url(../img/bg01.jpg) no-repeat top center;
+    /*position: fixed;*/
+    background: url(/img/bg01.jpg) no-repeat top center;
     background-size: 100% auto;
-    height:100vh;
-    width: 100%;
+    height: 100vh;
+    /*width: 100%;
     top: 0;
-    z-index: -1;
+    z-index: -1;*/
 }
 #article .top .main::before {
     content: "";
@@ -426,7 +427,7 @@ Service
     padding: 2vw 0 21.333vw;
 }
 #article .service .block {
-    margin: 80vh 0 0;
+    /*margin: 80vh 0 0;*/
     padding: 13.333vw 5.333vw;
 }
 #article .service .title {
@@ -440,40 +441,41 @@ Service
     text-align: left;
 }
 #article .service .bg02 {
-    position: fixed;
-    background: url(../img/bg02.jpg) no-repeat 12.673% top;
-    background-size: auto 100vh;
+    /*position: fixed;*/
+    background: url(/img/bg02.jpg) no-repeat 12.673% top;
+    background-size: auto 100%;
     height: 100vh;
-    width: 100%;
+    /*width: 100%;
     z-index: -2;
-    top: 0;
+    top: 0;*/
 }
 #article .service .bg02.landscape {
-    position: fixed;
-    background: url(../img/bg02.jpg) no-repeat top center;
+    /*position: fixed;*/
+    background: url(/img/bg02.jpg) no-repeat top center;
     background-size: 100% auto;
+    background-position-y: 50%;
     height: 100vh;
-    width: 100%;
+    /*width: 100%;
     z-index: -2;
-    top: 0;
+    top: 0;*/
 }
 #article .service .bg03 {
-    position: fixed;
-    background: url(../img/bg03.jpg) no-repeat 76.8% top;
-    background-size: auto 100vh;
+    /*position: fixed;*/
+    background: url(/img/bg03.jpg) no-repeat 76.8% top;
+    background-size: auto 100%;
     height: 100vh;
-    width: 100%;
+    /*width: 100%;
     z-index: -3;
-    top: 0;
+    top: 0;*/
 }
 #article .service .bg03.landscape {
-    position: fixed;
-    background: url(../img/bg03.jpg) no-repeat top center;
+    /*position: fixed;*/
+    background: url(/img/bg03.jpg) no-repeat top center;
     background-size: 100% auto;
     height: 100vh;
-    width: 100%;
+    /*width: 100%;
     z-index: -3;
-    top: 0;
+    top: 0;*/
 }
 /*----------
 News
