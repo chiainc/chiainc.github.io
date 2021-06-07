@@ -1,6 +1,6 @@
 ---
 layout: post
-title: チア利用規約
+title: 'チア利用規約'
 ---
 
 # チア利用規約
