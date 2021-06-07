@@ -1,3 +1,8 @@
+---
+layout: post
+title: 'Chia Privacy Policy'
+---
+
 # Chia Privacy Policy
 
 ## Introduction
