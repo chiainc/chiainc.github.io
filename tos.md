@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default
 title: 'チア利用規約'
 ---
 
