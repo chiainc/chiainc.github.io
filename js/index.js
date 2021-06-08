@@ -36,13 +36,13 @@ var map;
 function initMap() {
     if( $(window).width() > 768 ){
         map = new google.maps.Map(document.getElementById('map'), {
-            center: {lat: 35.6944192, lng: 139.6751484},
+            center: {lat: 35.694419, lng: 139.676243},
             zoom: 17,
             disableDefaultUI: true
         });
     }else{
         map = new google.maps.Map(document.getElementById('map'), {
-            center: {lat: 35.6944192, lng: 139.6751484},
+            center: {lat: 35.694419, lng: 139.676243},
             zoom: 16,
             disableDefaultUI: true
         });
