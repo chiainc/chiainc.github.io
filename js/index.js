@@ -36,13 +36,13 @@ var map;
 function initMap() {
     if( $(window).width() > 768 ){
         map = new google.maps.Map(document.getElementById('map'), {
-            center: {lat: 35.6923675, lng: 139.672058},
+            center: {lat: 35.6944192, lng: 139.6751484},
             zoom: 17,
             disableDefaultUI: true
         });
     }else{
         map = new google.maps.Map(document.getElementById('map'), {
-            center: {lat: 35.6923675, lng: 139.672058},
+            center: {lat: 35.6944192, lng: 139.6751484},
             zoom: 16,
             disableDefaultUI: true
         });
@@ -53,7 +53,7 @@ function initMap() {
         scaledSize: new google.maps.Size(34, 55)
     };
     var marker = new google.maps.Marker({
-        position: {lat: 35.6918074, lng: 139.6728452},
+        position: {lat: 35.6944192, lng: 139.6751484},
         map: map,
         icon: markerImg
     });
