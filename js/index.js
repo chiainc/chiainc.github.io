@@ -53,7 +53,7 @@ function initMap() {
         scaledSize: new google.maps.Size(34, 55)
     };
     var marker = new google.maps.Marker({
-        position: {lat: 35.6943643, lng: 139.6760389},
+        position: {lat: 35.694419, lng: 139.676243},
         map: map,
         icon: markerImg
     });
