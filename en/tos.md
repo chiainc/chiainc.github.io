@@ -39,7 +39,9 @@ Payer
 ## Article 4 (Account)
 Each User shall be issued one account. To use one account by multiple people is not permitted.
 
-Users are responsible for the management of their own account and the security.  The User is responsible for all transactions and instructions using the username.   Chia shall not be liable for any losses or damages caused or alleged to have been caused by unauthorized use of any User account by a third party other than the Users.
+Users shall set their own username and password pursuant to the conditions set forth by Chia (use of strong passwords, such as inclusion of a combination of letters and numbers that are not easy to guess, etc.).
+
+Users are responsible for the management of their own account and the security of the username and password.  The User is responsible for all transactions and instructions using the username and password.   Chia shall not be liable for any losses or damages caused or alleged to have been caused by unauthorized use of any User account by a third party other than the Users.
 
 ## Article 5 (Provision of User Information)
 Users shall, when signing up for a paid plan of the Service and when requested by Chia for User Information, promptly accommodate such requests and provide Chia with User Information. The User represents and warrants that all User information is accurate and complete at the time of registration and that the User will update User information so that it is at all times current, accurate and complete.
@@ -267,3 +269,4 @@ info@chi.as
 
 Updates:
 Version 1 May 1st, 2021
+Version 2 July 1st, 2021
