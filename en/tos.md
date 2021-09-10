@@ -61,7 +61,7 @@ The following acts are prohibited upon use of the Service:
 - Accessing or collecting information in a way that deviates from the scope of normal use, using scraping, crawling (crawler, robot, spider or other program) or similar methods;
 - Overloading the system or attempting to interfere with service to any user, host or network, including without limitation by issuing numerous requests to the website or application used for the Service (hereinafter referred to as “Website”);, by submitting a virus to the Website, overloading, “flooding”, “mailbombing” or “crashing”; or by sending unsolicited e-mail, including promotions and/or advertising of products or services;
 - Permitting third parties other than Users to use the Service;
-- Assigning or loaning the account to third parties;
+- Trading or Assigning or loaning the account to third parties;
 - Using an account or password of another user without permission;
 - Conducting illegal activities such as unauthorized access, cracking or any other equivalent acts; including without limitation attempting to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without proper authorization  or attempting to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without proper authorization;
 - Violating laws or regulations;
@@ -270,3 +270,4 @@ info@chi.as
 Updates:
 Version 1 May 1st, 2021
 Version 2 July 1st, 2021
+Version 3 September 10th, 2021
