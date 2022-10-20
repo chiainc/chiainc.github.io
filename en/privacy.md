@@ -1,206 +1,163 @@
 ---
 layout: default
-title: 'Chia Privacy Policy'
+title: 'Privacy Policy'
 ---
 
-# Chia Privacy Policy
+# Privacy Policy
 
-## Introduction
+Chia Inc. (“Chia”, “we”, “us” or “our”) develops and sells computer systems. In providing our services, and considering the importance of personal information, we have established a personal information protection policy to protect the individual’s rights and interests, and all board members and employees shall carry out this policy in good faith.
+“Personal information” as used in this policy shall mean any information that enables us to identify you, directly or indirectly, by reference to an identifier such as your name, identification number, location data, online identifier or one or more factors specific to you.
 
-Protecting your privacy is very important to Chia. Our mission is building a place where all people can express themselves online and this should not come at the price of your privacy.
+For the purposes of the EU General Data Protection Regulation 2016 (the “GDPR”) Chia is the controller of personal information and responsible for our services and websites, including https://chi.as, https://komaca.app, https://biory.app, https://labs.biory.app, https://biory.page, https://yay.bio, https://poge.me, https://otokudori.jp (the “Site”).
 
-## Scope
-Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Any information that we collect is subject to the Privacy Policy in effect at the time that information is collected.
+*“Controller” of personal information is defined as “person … which … determines the purposes and means of the processing of personal data” under Article 4(7) of the GDPR.
 
-## Updates to this Privacy Policy
-We may modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or take other actions as required by applicable law, and we’ll indicate when those changes will become effective. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our 
-Terms of Service.
+## Our Personal Information Protection Policy
 
-## Information We Collect
-To provide our Services, we collect:
-1. Information Provided by You or Collected with Your Permission
-1. Information Related to Your Use of the Services
-1. Information from our Partners
+ 1. We will acquire, use and provide appropriate personal information, giving consideration to the business content and scale.
+ 1. We will specify the purpose for which personal information will be used and take appropriate measures to ensure the use of personal information does not deviate from that purpose.
+ 1. We will comply with laws regarding the protection of personal information, guidelines set by the government and other related regulations.
+ 1. We will take security control measures to prevent a leak, loss, or deletion of or damage to personal information. Furthermore, we will put in place appropriate measures to handle personal information incidents, and measures to prevent the damage from spreading.
+ 1. We will promptly respond to requests for the disclosure of, inquiries about and complaints regarding personal information, by establishing an enquiry desk.
+ 1. We will review the security control measures in a timely manner and appropriately improve them.
 
-## Information Provided by You or Collected with Your Permission.
-- User Data: When you first install and setup our App, we may collect information about your interests to help us understand what content you might be interested in. When you set up your own account or otherwise interact with our Services, we may also collect certain personal information that can be used to identify you, which may include your name, your e-mail address, your profile image and other information.
-- SNS Data: We may allow you to use certain social networking services ("SNS") via the Services and may collect information about you from that SNS that you have made available via your privacy settings. For example, if you link your Twitter account to Chia and let us know that you want to see what news stories the people you follow on Twitter are sharing, the links to these news stories will be sent to you via our Services. Please refer to the privacy policy for the SNS you use for more information on how your information will be shared by the SNS and information available on your SNS accounts.
-- Interactive Features: We may offer interactive features, including features that let you submit User Content. We and other individuals who use our Services may collect the information you submit or make available through our interactive features. Any information shared on the public sections of these channels will be considered “public” and will not be subject to the privacy protections referenced herein.
-- Survey Data: We may contact you to participate in surveys. If you decide to participate, you may be asked to provide certain information that may include personal information.
+## Personal Information We Collect
+We use different methods to collect personal information from and about you including through:
 
-## Information Related to Your Use of the Services
-- Device Data: We and third parties we work with may automatically collect certain data about the device you use to access our Services. This data may include your Internet Protocol (IP) address, mobile advertising identifiers (Google Advertising ID or Apple Advertising ID) and other unique identifiers, cookie identifiers, model name, operating system, country code, app version, and other user settings and preferences.
-- Activity Data: We automatically collect certain data about your activities on our Services, including the pages, content or features of our Services you browse and the time you spend on those pages, content or features, the hyper-links from the contents displayed on our Services that you click on, referrer information and other information about how you use our Services.
+### Personal information you give us
+You may give us your personal information including your name and contact details, by filling in forms or by post, phone, email or otherwise. This includes, without limitation personal information you provide in the following instances;
 
-## Information from Our Partners.
-- Third-Party Partners: We may receive your information from our partners, such as publishers, advertisers, and third-party data providers. Our partners may provide information about your activities and interests off our services, including information about your device, device identifiers, your precise or approximate location, websites and advertisements you interact with, your browsing patterns, and information about how you use our partner’s services.
+ * when you ask us about our services, register for use, or download materials about our services;
+ * when you subscribe to our publications or newsletters;
+ * when you request marketing e-mails to be sent to you;
+ * when you send us feedback;
+ * when you answer a questionnaire for the purpose of statistical surveys and enter sweepstakes;
+ * when you apply for events, seminars, business negotiations, etc. (offline or online, hereinafter collectively referred to as “Events”) conducted by Chia, or when you answer a questionnaire during Events; and
+ * when you provide customer information at the request of Chia in the case of using the Chia API.
 
-## How Do We Use Information?
-Our primary purpose for collecting and using information is to deliver quality Content to you, our users. We also collect and use your information for a variety of business purposes, including:
-1. To Provide the Services or Information Requested
-1. To Measure Performance and Carry Out Research
-1. For Customer Support
-1. For Advertising Purposes
-1. For Administrative or Legal Purposes
+### Personal information we collect
+As you interact with our Site, we may automatically collect the following information:
 
-To Provide the Services or Information Requested. This includes using your information to:
-Fulfill our contract with you;
-- Tailor and deliver Content curated according to your interests which we infer from the data we collect;
-- Provide access to certain functionalities, and features of our Services, such as the local news feature and the weather forecast feature;
-- Create and update your account; and
-- Manage your information.
+ * information about your device and the use of a browser (including usage status, frequency of use, and length of your visit);
+ * the date you accessed our Site;
+ * the website you visited before visiting our Site;
+ * technical information about your browser, OS type and language, IP address, and the domain name; and
+ * if you access our Site from a mobile application, your mobile carrier, device identifier, type of device, performance information, app store when downloading the application, customer behavior, frequency of use, usage status when using the application (including the number of times you used the application).
 
-### Information Provided by You or Collected with Your Permission:
-- Measure interest and engagement in the Services;
-- Pursue our legitimate interests, such as research and development (including marketing research), network and information security, and fraud prevention;
-- Improve our products and Services;
-- Develop new products and services; and
-- Carry out analytics. For example, we may use personal information and other data to create de-identified and aggregated information, such as de-identified demographic information, de-identified location information, information about the computer or device from which you access our Services, or other analyses we create.
+We collect this personal information by using cookies, server logs and other similar technologies. The content collected and recorded on access logs is used as server operation information to assist in improving our Site and services, and also to provide you, depending on your usage status, with information useful to use our services or promotional information via e-mail or by other means.
 
-### For Customer Support. This includes using your information to:
-- Respond to questions, comments, and other requests from you;
-- Investigate and answer requests for customer or technical support; and
-- Communicate with you about activities on the Services and changes to our Terms of Service.
+The content recorded on access logs is not used in conjunction with other personal information when used as server operation information, but will be used in conjunction with your user information and e-mail address where information is to be provided to you via e-mail or by other means.
 
-### For Advertising Purposes. This includes using your information to:
-- Tailor and provide personalized advertisements with you. We and our third-party partners may provide you with these materials as permitted by applicable law.
-- Engage in cross device tracking, which helps us to track your browsing activity across different websites, devices and/or apps. For example, we may attempt to match your browsing activity on your mobile device with your browsing activity on your tablet. To do this, our technology partners may share data, such as your browsing patterns, geo-location and device identifiers, and will match the information of the browser and/or devices that appear to be used by the same user.
+## Cookies
+Like many websites, we use a tool called ‘Cookies’ to make our Site more convenient for our customers.
 
-### For Administrative or Legal Purposes. This includes using your information to:
-- Ensure internal quality control and safety;
-- Verify individual identity to respond to certain requests or claims;
-- Carry out audits;
-- Prevent and prosecute potentially prohibited or illegal activities;
-- Enforce our agreements; and
-- Comply with our legal obligations. For example, we may disclose your information to certain government entities regarding certain claims or disputes relating to use of our Services.
+Cookies are files that are stored on your computer or mobile device when you browse our Site.
 
-## What Information Do We Share With Third Parties?
-We may share the information that we have collected from you:
-1. With Our Advertising Partners
-1. With Our Service Providers
-1. With Your Consent or at Your Request
-1. With Affiliates
-1. For Legal Reasons
-1. In Connection with Business Transactions
+We mainly use Cookies for the following purposes.
 
-## Information Shared with Our Advertising Partners.
-We may engage third party advertising partners to collect information and serve advertising on and through the Services. When you use our Services, these third-party advertising partners may collect information regarding your activities and your device (e.g., your IP address, mobile device identifiers, page(s) visited, location, time of day). These advertising partners may use this information (and similar information collected from other services) for purposes of delivering personalized advertisements to you when you visit our Services and third-party services within their networks. This practice is commonly referred to as “interest-based advertising” or “personalized advertising.”
-If you prefer not to share your personal information with third-party advertising partners, you may follow the instructions below.
+ * When you use the service, you do not have to enter a password every time.
+ * We use Cookies to deliver personalized experiences on our Site and services to our customers.
+ * Cookies are used to analyze our customers’ activities in our services (we may use the results of our analysis to make you offers or for promotions).
 
-## Information Shared with Our Service Providers.
-We may engage third party service providers to work with us to administer and provide the Services. The types of service providers to whom we entrust information include service providers for: (i) the provision of the Services; (ii) the provision of information, products, and other services you have requested; (iii) analytics; (iv) marketing and advertising; (v) customer service activities; and (vi) the provision of IT and related services. For example, we use MailChimp to send you correspondence regarding our Services, including, without limitation, our promotional newsletters and e-mails. For more information, please see MailChimp’s privacy policy: https://mailchimp.com/legal/privacy/.
+Please see our Cokie Policyo for further details on Cookies.
 
-We also use analytics services from Google including Google Analytics for Firebase to collect analytics information on the Services. For more information about Google’s processing of your information, please visit: https://policies.google.com/technologies/partner-sites. To learn more about how to opt-out of Google Analytics’ use of your information on our website, please visit: https://tools.google.com/dlpage/gaoptout.
+## Our Purposes For Processing Personal Information
+We will process your personal information for the following purposes:
 
-## Information We Disclose with Your Consent or at Your Request.
-We may share your information with third parties if you provide us with your consent or if you have expressly requested that we share your information.
+ * To confirm your identity;
+ * To confirm your eligibility to use Chia services (including, but not limited to requirements that you be over 18 years old and not be Anti-Social Force(s));
+ * To respond to your questions and provide related customer services;
+ * To prevent fraud or other financial crime;
+ * To monitor and protect the security of our information, systems and network;
+ * To conduct research and product development and enhancement;
+ * To inform you of changes made to our Site and other services;
+ * To conduct marketing activities;
+ * To effectively present content from our Site;
+ * To provide content matching with your interests;
+ * To enable you to search for information on our Site;
+ * To assess your needs and interests in order to better tailor offers and advertising;
+ * To improve the convenience of our Site;
+ * To provide questionnaires for the purpose of statistical surveys and to offer sweepstakes (the answers to questionnaires may be made public in the form of statistical information that does not allow a specific individual to be identified); and
+ * To confirm your eligibility to use our real store.
 
-## Information Shared with Affiliates.
-We may share personal information with our affiliated companies.
+## Emails
+We may send out emails to you for the purpose of providing our services, contents or functions, researching, providing news, promotions, and announcing events. Our customers may opt-out of receiving these emails. We may use a third-party provided service to send out emails or to communicate smoothly with our customers. We may share information, such as your email address, with the third-party service provider only to the extent necessary for this purpose.
 
-## Information Disclosed for Legal Reasons.
-We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate: (i) to respond to claims, legal process (including subpoenas); (ii) to protect our property, rights and safety and the property, rights and safety of a third party or the public in general; and (iii) to stop any activity that we consider illegal, unethical or legally actionable activity.
+## Sharing Personal Information
+We will protect your personal information as being strictly confidential. We may share your personal information with the parties set out below for the purposes set out in this policy:
 
-## Information Shared in Connection with Business Transactions.
-If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract.
+ * A member of our group;
+ * Our professional advisors such as auditing firms, accountants and lawyers, etc.;
+ * Companies that provide services to help us with our business activities, such as data storage, maintenance services, database management, web analytics and payment processing; and
+ * Companies that succeed to our business or assets due to an organizational restructuring or a business transfer or the like.
 
-## Cookies and Third-Party Technologies
-Cookies and Pixel Tags. We may use cookies, pixel tags, and other similar technologies. Cookies are small text files placed in device browsers that store preferences and facilitate and enhance your experience. A pixel tag (also known as a web beacon) is a piece of code embedded in our Services that collects information about engagement on our Services. We may also include web beacons in e-mails to understand whether messages have been opened, acted on, or forwarded.
+We may also disclose your personal information to the extent required by law when it is necessary to disclose your personal information as required by law such as to protect your safety or the safety of others, investigate crimes, or respond to a request by the government or any other third party. Furthermore, we will notify you of any provision of your personal information to respond to a request by the government or a third party unless notification is prohibited by the applicable law.
 
-Our use of cookies and similar technologies falls into the following general categories: (i) operationally necessary; (ii) performance-related; (iii) functionality-related; and (iv) advertising-related.
+We require all third parties to process personal information in a secure manner in accordance with the law. Furthermore, we require third-parties outsourced to process personal information to process your personal information only for the purposes of outsourcing and in accordance with our instructions.
 
-## Software Development Kits. 
-We may use third party software development kits (“SDKs”) as part of the functionality of our App. SDKs typically collect your mobile device identifier and information related to your use of the Services. SDKs may allow third parties including analytics and advertising partners to collect your information for various purposes including to provide analytics services and personalized advertising. For more information about the SDKs we use, please contact us as set forth below.
+Where the GDPR applies to the processing of your personal information and your personal information is shared with a third party located in a country that has not received an adequacy decision by the European Commission, we will take appropriate security measures, such as the European Commission-approved Standard Contractual Clauses. You can confirm the details of the security measures (including a copy of the Standard Contractual Clauses) by contacting using the Contact Us page on our Site.
 
-## Your Choices
-General. You may have the right to opt out of certain uses of your information.
-Email Communications. If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails. Note that you will continue to receive transaction-related emails regarding products or Services you have requested. We may also send you certain non-promotional communications regarding us and our Services, and you will not be able to opt out of those communications (e.g., communications regarding the Services or updates to our Terms of Service or this Privacy Policy).
+## Retention Period of Personal Information
 
-Mobile Devices. We may send you push notifications through our App. You may opt-out from receiving these types of communications by changing the settings on your mobile device. We may also collect precise location information if you enable such collection via our App. You may opt-out of this collection by changing the settings on your mobile device.
+We will store your personal information, in a form which permits us to identify you, for no longer than is necessary for the purpose for which the personal information is processed. Furthermore, we will store your personal information as necessary to comply with our legal obligations, resolve disputes, or enforce our rights, or if it is technically difficult to remove it immediately.
 
-Personalized Advertising. If you would like to opt-out of the advertising and other similar technologies (e.g., cookies) we employ on the Services, you may do so by blocking, disabling, or deleting them as your browser or device permits, including by following the steps set forth below. Please note that you can opt out of personalized advertising, but you will continue to see non-personalized online advertising on the Services and/or other digital properties.
+## Security Control Measures
 
-- To limit ad tracking by Apple, Google, or other mobile operating systems: please follow the instructions for Android, iOS, and others. Other operating systems for mobile devices may also provide instructions on how to prevent the delivery of personalized advertisements.
-- To opt-out of the personalized advertising by certain third parties: please opt-out of personalized advertisement using your account settings on each applicable service. If you do not have any account on a certain service, you likely will not see any personalized advertisements from that service.
+We will take security control measures to prevent a leak, loss, or deletion of or damage to personal information. Furthermore, we will put in place appropriate measures to handle personal information incidents, and measures to prevent the damage from spreading. The security control measures we will take include executing appropriate agreements with outsourced parties or employees and supervising them. Where we process personal information overseas, we will learn about the systems of that foreign country that protect personal information and take appropriate security control measures. We will review the security control measures in a timely manner and appropriately improve them.
 
-  - https://adssettings.google.com/authenticated
-  - https://www.facebook.com/ads/preferences/
+## SSL/TLS
+Our Site uses ‘SSL/TLS’ to protect personal information. By using a browser that supports security functions, when you access our Site and enter personal information including your name and e-mail address, and this personal information is transmitted to our server, SSL/TLS will enable the personal information to be automatically encrypted. Therefore, if the personal information you transmitted is intercepted by a third party, there is no need to worry about the content being stolen.
 
-The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from advertisers that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at https://optout.networkadvertising.org/, https://www.youronlinechoices.com/ and https://optout.aboutads.info/.
+If you use a browser that does not support SSL, you may not be able to access our Site or load information.
 
-Please note that cookie-based opt-outs are not effective on mobile applications and you must separately opt out in each browser and on each device.
-“Do Not Track.” Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers when you visit our website.
+## Legal Basis for Processing Personal Information
+Where the GDPR is to apply to the processing of your personal information, we process personal information about you only where we have the following legal basis for doing so:
 
-## Individual Rights in Personal Information
-### In accordance with applicable law, you may have the right to:
+ * Agreement: where we need to process your personal information to perform an agreement we executed with you.
+ * Legal obligation: where we need to process your personal information to comply with a legal obligation.
+ * Legitimate interest: where we need to process your personal information for our legitimate interests or those of a third party, and they are not overridden by your interests and fundamental rights.
+ * Consent: where you give us consent to process personal information. You may withdraw your consent at any time, but withdrawing your consent will not affect the lawfulness of the processing of your personal information based on the consent you gave before your withdrawal.
 
-- obtain access to or a copy of your personal information with accompanying details;
-- receive an electronic copy of personal information that you have provided to us, or ask us to send that information to another company (the “right of data portability”);
-- change or update your personal information;
-- withdraw your consent to process your personal information;
-- request that we restrict or limit our use of your personal information;
-- request erasure of personal information held about you by Chia; and
-- object to our processing of your personal information.
+If you have any questions regarding the details of the legitimate interests, please contact us using the Contact Us page on our Site.
 
-If you would like to exercise any of these rights, visit the "Settings" menu in our mobile application. Once you are in the Settings menu, click "Help Center." Once you are in the Help Center, the Help Center has a form for receiving inquiries. Please fill out the form with your inquiry or request. Please specify the nature of your request in the email you send. If you have any questions, please contact us as set forth below. Please note that there may be technical limitations that prevent us from fulfilling certain requests. We may carry out deletion requests by de-identifying and/or anonymizing information such that it is no longer personal information.
+## Your Rights
+You have multiple legal rights in relation to your personal information we hold about you. These rights may change according to data protection laws and regulations applied in relation to your location and the relationship between you and Chia, but typically include the following.
 
-We will process such requests in accordance with applicable laws. To protect your privacy, Chia will take steps to verify your identity before fulfilling your request.
-In order to verify your request, we use an identifier that is unique to your device that has been assigned by our App. If you submit a request in accordance with the instructions listed above, we will automatically receive the identifier. If we do not receive this identifier when you make a request, we will not be able to verify your identity and will deny your request.
+### Right of access to personal information.
+You may have the right to request access to related information, including personal information we hold about you, the purposes for processing the personal information, the recipients or categories of recipients with whom the personal information has been shared, the period for which the personal information will be stored (if impossible, the basis used to determine that period), the right to object to competent authorities, the source of the personal information, and the existence of any automated decision making.
 
-## How Long Do We Retain Your Information?
-We store the personal information we collect as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+### Right to correct personal information. 
+You may have the right to request that Chia correct any inaccurate or incomplete personal information about you.
 
-## The Security of Your Information
-We take reasonable measures to protect the information that we collect from or about you from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
-By using our Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our Services. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on our Services, by sending an email to you, or through other means.
+### Right to erase personal information.
+You may have the right to request that Chia erase personal information about you under certain circumstances, including the following circumstances.
 
-## Supplemental Notice for California Residents
+ * If it is no longer necessary for Chia to store your personal information, in light of the purpose for collecting the personal information.
+ * If Chia may process personal information only on the basis of your consent, and you withdraw your consent.
+ * If you object to Chia’s processing of personal information on the grounds of legitimate interests, and those legitimate interests do not override your interests, rights and freedom.
 
-This Supplemental Notice for California Residents only applies to our processing of personal information that is subject to the California Consumer Privacy Act of 2018 (“CCPA”). The CCPA provides California residents with the right to know what categories of personal information Chia has collected about them and whether Chia disclosed that personal information for a business purpose (e.g., to a service provider) in the preceding 12 months. California residents can find this information below:
+### Right to request that the processing of personal information be restricted.
+You may have the right to restrict the processing of your personal information under certain circumstances, including the following circumstances.
 
-| Category of Personal Information Collected by Chia | Category of Third Parties Personal Information is Disclosed to for a Business Purpose |
-| --- | --- |
-| Identifiers | Our affiliates, Service providers, Advertising partners |
-| Personal information categories listed in Cal. Civ. Code § 1798.80(e) | Our affiliates, Service providers |
-| Protected classification characteristics under California or federal law | Our affiliates, Service providers, Advertising partners |
-| Commercial information | Our affiliates, Service providers, Advertising partners |
-| Internet or other electronic network activity | Our affiliates, Service providers, Advertising partners |
-| Geolocation Data | Our affiliates, Service providers, Advertising partners |
-| Inferences drawn from other personal information to create a profile about a consumer | Our affiliates, Service providers, Advertising partners |
+ * If you object to the accuracy of your personal information yourself (limited to the period necessary for Chia to confirm the accuracy of personal information).
+ * If it is no longer necessary for Chia to process personal information for purposes other than filing for or exercising legal claims, or to defend the same.
+ * If you object to Chia’s processing of personal information on the grounds of legitimate interests (limited to the period necessary to determine whether the legitimate interest overrides your interests, rights and freedom.).
 
-The categories of sources from which we collect personal information and our business and commercial purposes for using personal information are set forth above.
-Additional Privacy Rights for California Residents
+### Right to object.
+You may have the right to object to Chia regarding the processing of your personal information.
 
-“Sales” of Personal Information under the CCPA. For purposes of the CCPA, we do not “sell” personal information, nor do we have actual knowledge of any “sale” of personal information of minors under 16 years of age.
+### Right of data portability.
+If Chia processes personal information provided by you on the legal basis of consent or an agreement, you may have the right to request that you receive personal information in structured and generally used, and machine-readable form, or that the personal information be transferred directly to a third party to the extent this is technically feasible for Chia.
 
-Non-Discrimination. California residents have the right not to receive discriminatory treatment by us for the exercise of their rights conferred by the CCPA.
-Authorized Agent. Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. To designate an authorized agent, please contact us as set forth below.
+Where you believe that we have not complied with our obligations under this policy or the GDPR, you have the right to make a complaint to the relevant data protection authorities.
 
-### Our Lawful Basis for Processing Personal Information
-If your personal information is subject to the EU General Data Protection Regulation or other related legislation, our processing of your personal information is supported by the following lawful bases:
+## Contact Us
+If you have any questions regarding this policy, please contact us using the Contact Us page on our Site.
 
-| | Performance of a Contract (i.e., to Provide Our Services to You) | Legitimate Interest | Consent | For Compliance with Legal Obligations |
-| --- | --- | --- | --- | --- |
-| To Provide the Services or Information Requested | ✔ | ✔ | | ✔ |
-| To Measure Performance and Carry Out Research | ✔ | ✔ | ✔ | |
-| For Customer Support | ✔ | ✔ | ✔ | ✔ |
-| For Advertising Purposes | | ✔ | ✔ | |
-| For Administrative or Legal Purposes | ✔ | ✔ | | ✔ |
+## Changes To This Policy
+We may update this policy. In case of material updates, we will notify you on our Site in advance. Please periodically confirm this policy to obtain the latest information about our processing of personal information.
 
-## Links to Other Services
-Our Services may contain links to other websites and services, including News Content. Any information that you provide on or to or that is collected by a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we’re not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information, we recommend that you carefully review the privacy policies of other websites and services that you access. Visiting these other websites or services is at your own risk.
+## Updates
 
-## International Transfer
-Your information may be transferred to, and maintained on, computing equipment located outside of your state, province, country or other governmental jurisdiction including, but not limited to, Japan, the United States of America, or other countries, where the privacy laws may not be as protective as those in your jurisdiction. We endeavor to safeguard your information consistent with the requirements of applicable laws.
-
-## Our Policy Toward Children
-Our Services are not directed to children under 13 and we do not knowingly collect personal information from children under 13. If we learn that we have collected personal information of a child under 13 we will take steps to delete such information from our files as soon as possible.
-
-## Questions?
-Please contact us at info@chi.as if you have any questions about our Privacy Policy.
-If you have a question about Chia, please contact us via inApp or inWeb Chia Help Center.
-
-May 1st 2021
-
-
-Chia Inc.
+ * Version 1 May 1st 2021 Enacted
+ * Version 2 Oct 20th 2022
