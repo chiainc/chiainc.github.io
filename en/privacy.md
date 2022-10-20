@@ -158,6 +158,5 @@ If you have any questions regarding this policy, please contact us using the Con
 We may update this policy. In case of material updates, we will notify you on our Site in advance. Please periodically confirm this policy to obtain the latest information about our processing of personal information.
 
 ## Updates
-
  * Version 1 May 1st 2021 Enacted
  * Version 2 Oct 20th 2022
