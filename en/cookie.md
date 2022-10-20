@@ -12,13 +12,11 @@ When you first access the Site from certain jurisdictions, you will receive a me
 You do not have to accept cookies and consent can be withdrawn at any time (see How to Control Cookies, below). You can change your browser settings to refuse or restrict cookies, and you may delete them after they have been placed on your device at any time. If you do not accept or delete our cookies, some areas of the Site that you access may take more time to work, or may not function properly.
 
 ## What Are Cookies?
-
 Cookies are small files containing a string of characters that we may store on your computer or mobile device when you visit the Site. When you visit the Site again, the cookies allow us to recognize your browser. Cookies may store your preferences and other information but cannot read data off your hard disk or read cookie files created by other sites.
 
 Cookies set by a website owner (in this case, Nulab) are called “first party cookies”. Cookies set by parties other than the website owner are called “third party cookies”. Third party cookies enable us to provide third party features or functionality through the Site (i.e. advertising, social media functions and analytics).
 
 ## The Cookies We Use
-
 Cookies make the use of the Site easier by, among other things, saving your preferences. We may also use cookies to deliver content tailored to your interests. Our cookies may enable us to relate your use of the Site to Personal Data that you previously submitted.
 
 The information that we collect with cookies allows us to statistically analyze usage of the Site, and to improve and customize our content and other offerings. However, we only disclose information collected with cookies to third parties on an aggregated basis without the use of any information that personally identifies you.
@@ -50,23 +48,18 @@ In addition, you can exercise advertising cookie choices by visiting:
  * [http://youronlinechoices.com/](http://youronlinechoices.com/).
 
 ## Web Beacons
-
 As well as cookies, we use other technologies to recognize and track visitors to the Site. A web beacon (also known as a “tracking pixel” or “clear GIF”) is a clear graphic image (typically a one-pixel tag) that is delivered through a web browser or HTML e-mail, typically in conjunction with a cookie.
 
 Web beacons allows us, for example, to monitor how users move from one page within our websites to another, to track access to our communications, to understand whether users have come to our websites from an online advertisement displayed on a third-party website, to measure how ads have been viewed and to improve site performance.
 
 ## Targeting Advertising
-
 Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies. These companies may use information about your visits to this and other websites in order to provide relevant advertisements about goods and service that you may be interested in. They may also employ technology that is used to measure the effectiveness of advertisements.
 
 ## Contact Us
-
 If you have any questions regarding our policy or privacy practices, please contact us using the Contact Us page on our Site.
 
 ## Changes to this Policy
-
 We may update this policy to reflect changes to our information practices. If we make any material changes we will notify you by means of a notice on our Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Updates:
-
+## Updates:
 Version 1 Oct 20th 2022 Enacted

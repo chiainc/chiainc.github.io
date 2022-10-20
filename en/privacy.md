@@ -59,7 +59,7 @@ We mainly use Cookies for the following purposes.
  * We use Cookies to deliver personalized experiences on our Site and services to our customers.
  * Cookies are used to analyze our customers’ activities in our services (we may use the results of our analysis to make you offers or for promotions).
 
-Please see our Cokie Policyo for further details on Cookies.
+Please see our Cokie Policy for further details on Cookies.
 
 ## Our Purposes For Processing Personal Information
 We will process your personal information for the following purposes:
