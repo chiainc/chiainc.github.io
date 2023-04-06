@@ -10,7 +10,7 @@ title: 'プライバシーポリシー'
 
 この方針において、「個人情報」という用語は、名前、ID番号、位置データ、オンライン識別子など、単数あるいは複数のお客様の特徴等の識別子を用いて直接間接を問わずお客様を特定できる情報を意味します。
 
-EUの一般データ保護規則2016　(以下「GDPR」といいます。)上は、チアは、個人情報のコントローラーに当たり、https://chi.as, https://komaca.app, https://biory.app, https://labs.biory.app, https://biory.page, https://yay.bio, https://poge.me, https://otokudori.jp（以下「チアサイト」といいます。）を含むチアのウェブサイトの責任者です。
+EUの一般データ保護規則2016　(以下「GDPR」といいます。)上は、チアは、個人情報のコントローラーに当たり、https://chi.as, https://sensei.codes, https://komaca.app, https://biory.app, https://labs.biory.app, https://biory.page, https://yay.bio, https://poge.me, https://otokudori.jp（以下「チアサイト」といいます。）を含むチアのウェブサイトの責任者です。
 
 ※なお、個人情報の「コントローラー」とは、GDPR第４条第７号において、「個人データ取扱いの目的および方法を決定する者」として定義されています。
 
@@ -151,5 +151,6 @@ EUの一般データ保護規則2016　(以下「GDPR」といいます。)上�
 * 2019年4月1日　改定・施行
 * 2021年5月31日　改定・施行
 * 2022年10月20日　改定・施行
+* 2023年4月8日　改定・施行
 
 チア株式会社

@@ -8,7 +8,7 @@ title: 'Privacy Policy'
 Chia Inc. (“Chia”, “we”, “us” or “our”) develops and sells computer systems. In providing our services, and considering the importance of personal information, we have established a personal information protection policy to protect the individual’s rights and interests, and all board members and employees shall carry out this policy in good faith.
 “Personal information” as used in this policy shall mean any information that enables us to identify you, directly or indirectly, by reference to an identifier such as your name, identification number, location data, online identifier or one or more factors specific to you.
 
-For the purposes of the EU General Data Protection Regulation 2016 (the “GDPR”) Chia is the controller of personal information and responsible for our services and websites, including https://chi.as, https://komaca.app, https://biory.app, https://labs.biory.app, https://biory.page, https://yay.bio, https://poge.me, https://otokudori.jp (the “Site”).
+For the purposes of the EU General Data Protection Regulation 2016 (the “GDPR”) Chia is the controller of personal information and responsible for our services and websites, including https://chi.as, https://sensei.codes, https://komaca.app, https://biory.app, https://labs.biory.app, https://biory.page, https://yay.bio, https://poge.me, https://otokudori.jp (the “Site”).
 
 *“Controller” of personal information is defined as “person … which … determines the purposes and means of the processing of personal data” under Article 4(7) of the GDPR.
 
@@ -160,3 +160,4 @@ We may update this policy. In case of material updates, we will notify you on ou
 ## Updates
  * Version 1 May 1st 2021 Enacted
  * Version 2 Oct 20th 2022
+ * Version 3 Apr 8th 2023
