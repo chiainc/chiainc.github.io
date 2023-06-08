@@ -17,4 +17,5 @@ title: 'Act on Specified Commercial Transactions'
 | Available Payment Methods | Credit card |
 | Payment Period | The process will be carried out immediately after the purchase procedure is completed. |
 | Selling Price | The amount displayed on the screen during the purchase process will be applied. |
+| Mid-term Cancellation | Even if you cancel in the middle of the month, a full month's fee will be charged. There will be no refunds, including pro-rated refunds, under any circumstances. |
 | Operating Environment | The recommended environment is as follows:<br>Safari running on iOS 16 / iPadOS 16 / macOS 13 or later<br>Microsoft Edge running on Windows 10 or later |
