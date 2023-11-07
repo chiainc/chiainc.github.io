@@ -16,6 +16,6 @@ title: 'Act on Specified Commercial Transactions'
 | Delivery Period | The product is available for use immediately after payment is completed. |
 | Available Payment Methods | Credit card |
 | Payment Period | The process will be carried out immediately after the purchase procedure is completed. |
-| Selling Price | The amount/period displayed on the screen during the purchase process will apply. |
+| Selling Price | The amount/period displayed on the screen during the purchase process will be applied. |
 | Mid-term Cancellation | If the service is canceled mid-term, charges for the entire period will still apply, and no refunds, including pro-rated refunds, will be made. |
 | Operating Environment | App — The latest version of iOS, the latest version of Android<br>Web — ​​Safari on the latest versions of iOS/iPadOS/macOS, Chrome on the latest version of Android, Microsoft Edge on the latest version of Windows |
