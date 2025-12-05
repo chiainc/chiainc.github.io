@@ -71,6 +71,7 @@ Chia / Komaca
 Email: legal@chi.as
 Website: https://chi.as, https://komaca.app/
 
+---
 
 # 著作権侵害に関する対応方針（日本語版）
 
