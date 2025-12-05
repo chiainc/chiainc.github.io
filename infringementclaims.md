@@ -27,6 +27,7 @@ Notices missing essential details may not be processed.
 Please send your report to:
 
 Email: legal@chi.as
+
 Subject: Copyright Infringement Report
 
 We accept notices in English or Japanese.
@@ -68,7 +69,9 @@ False, fraudulent, or abusive notices may not be processed.
 ## 6. Contact
 
 Chia / Komaca
+
 Email: legal@chi.as
+
 Website: https://chi.as, https://komaca.app/
 
 ---
@@ -92,6 +95,7 @@ Chia / Komaca（以下「当サービス」）は、著作権者およびコン�
 送付先：
 
 メール： legal@chi.as
+
 件名： 著作権侵害の申告
 
 日本語・英語の申告に対応しています。
@@ -128,5 +132,7 @@ Chia / Komaca が内容を確認し、復元の可否は当サービスの裁量
 ## 6. お問い合わせ
 
 Chia / Komaca
+
 メール：legal@chi.as
+
 URL：https://chi.as, https://komaca.app/
