@@ -20,376 +20,367 @@ body {
 PC
 ----------*/
 @media screen and (min-width: 769px) {
-    #article .company dl {
+    .sp_only {
+        display: none;
+    }
+
+    /*----------
+Common
+----------*/
+    /* hover */
+    a,
+    input {
+        transition: all 0.3s;
+    }
+
+    a:hover,
+    input[type="button"]:hover,
+    input[type="submit"]:hover {
+        opacity: 0.5;
+    }
+
+    .main {
+        width: 700px;
+        margin: 0 auto;
+    }
+
+    #article .t_center,
+    #article .category {
+        text-align: center;
+    }
+
+    #article .category {
+        position: relative;
+    }
+
+    #article .category::after {
+        content: "";
+        position: absolute;
+        width: 80px;
+        height: 1px;
+        background: linear-gradient(to right, #33cdc3, #c4dc04);
+        left: 50%;
+        bottom: -40px;
+        transform: translate(-50%, 0);
+    }
+
+    #article .category .b {
+        color: #287788;
+        font-size: 40px;
+        font-family: 'Barlow', sans-serif;
+        letter-spacing: 0.2em;
+        line-height: 1;
+    }
+
+    #article .category .s {
+        color: #000;
+        margin-top: 25px;
+        display: block;
+        font-size: 12px;
+        letter-spacing: 0.1em;
+    }
+
+    /*----------
+Top
+----------*/
+    #article .top .bg01 {
+        position: relative;
+        background: url(/img/bg01.jpg) no-repeat top center;
+        /*background-attachment: fixed;*/
+        height: 100vh;
+        width: 100%;
+        z-index: -1;
+        background-size: cover;
+    }
+
+    #article .top .bg01::after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 1px;
+        background: linear-gradient(to right, #32cdc8, #c8dc00);
+        bottom: 0;
+        left: 0;
+    }
+
+    #article .top .lead {
+        margin: 80px 0 115px;
+        font-weight: 600;
+    }
+
+    #article .top .catch {
+        font-size: 45px;
+        line-height: 1;
+        letter-spacing: 0.2em;
+    }
+
+    #article .text {
+        margin-top: 40px;
+        line-height: 2.176;
+        font-size: 17px;
+        letter-spacing: 0.1em;
+    }
+
+    /*----------
+Service
+----------*/
+    #article .service {
+        margin-top: 60px;
+    }
+
+    #article .service .block {
+        margin: 50px auto;
+    }
+
+    #article .service .title {
+        font-size: 30px;
+    }
+
+    #article .service .description {
+        font-size: 16px;
+        line-height: 2;
+        margin-top: 25px;
+    }
+
+    #article .service .bg02 {
+        background: url(/img/bg02.jpg) no-repeat top center;
+        position: relative;
+        /*background-attachment: fixed;*/
+        height: 100vh;
+        width: 100%;
+        z-index: -1;
+        margin-top: 80px;
+        background-position-y: 50%;
+        /*background-size: cover;*/
+    }
+
+    #article .service .bg03 {
+        background: url(/img/bg03.jpg) no-repeat top center;
+        position: relative;
+        /*background-attachment: fixed;*/
+        height: 100vh;
+        width: 100%;
+        z-index: -1;
+        /*background-size: cover;*/
+    }
+
+    /*----------
+News
+----------*/
+    #article .news {
+        margin-top: 80px;
+    }
+
+    #article .news .news_lists {
+        margin-top: 80px;
+    }
+
+    #article .news .excerpt {
+        border-bottom: 1px solid #e2e2e4;
+        position: relative;
+        margin-top: 20px;
         font-size: 14px;
     }
 
-    .footer ul li {
+    #article .news .excerpt::after {
+        content: "";
+        position: absolute;
+        width: 5px;
+        height: 5px;
+        border-top: 2px solid #000;
+        border-right: 2px solid #000;
+        top: 50%;
+        right: 10px;
+        transform: translate(0, -50%) rotate(45deg);
+        transition: all 0.3s;
+    }
+
+    #article .news .excerpt:hover::after {
+        opacity: 0.5;
+        cursor: pointer;
+    }
+
+    #article .news .excerpt>a {
+        display: flex;
+        align-items: center;
+        line-height: 1.5;
+        padding: 15px 20px 15px 15px;
+    }
+
+    #article .news .date {
+        display: block;
+        width: 90px;
+        margin-right: 45px;
+        font-weight: 600;
+        font-family: 'Barlow', sans-serif;
+        letter-spacing: 0.1em;
+    }
+
+    #article .news .content {
+        width: 500px;
+        margin-right: 30px;
+    }
+
+    /*----------
+Contact
+----------*/
+    #article .contact {
+        margin-top: 155px;
+    }
+
+    #article .contact form {
+        margin-top: 80px;
+    }
+
+    #article .contact .form li {
+        margin-top: 30px;
+    }
+
+    #article .contact form .input {
+        display: block
+    }
+
+    #article .contact form .input>input {
+        width: 100%;
+        height: 45px;
+        outline: none;
+        box-sizing: border-box;
+        padding: 15px 20px;
+        font-size: 13px;
+        font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+        border: 1px solid #c8c8c8;
+    }
+
+    #article .contact form .input>input::-webkit-input-placeholder,
+    #article .contact form .input>input:-ms-input-placeholder {
+        color: #c8c8c8;
+    }
+
+    #article .contact textarea {
+        resize: none;
+        width: 100%;
+        height: 200px;
+        outline: none;
+        box-sizing: border-box;
+        padding: 15px 20px;
+        font-size: 13px;
+        font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+        border: 1px solid #c8c8c8;
+    }
+
+    #article .contact textarea::-webkit-input-placeholder,
+    #article .contact textarea:-ms-input-placeholder {
+        color: #c8c8c8;
+    }
+
+    #article .contact .btn {
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    #article .contact .btn>input {
+        background: linear-gradient(to right, #33cdc5, #c4dc04);
+        border: none;
+        outline: none;
+        width: 450px;
+        height: 55px;
+        border-radius: 28px;
+        color: #fff;
+        padding: 0;
+        font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
+        font-weight: 600;
+        letter-spacing: 0.25em;
+    }
+
+    #article .contact .btn>input:hover {
+        cursor: pointer;
+    }
+
+    /*----------
+Company
+----------*/
+    #article .company {
+        margin-top: 60px;
+    }
+
+    #article .company #map {
+        margin-top: 80px;
+        width: 100%;
+        height: 320px;
+    }
+
+    #article .company dl {
+        display: grid;
+        grid-template-columns: 80px 345px 80px 195px;
+        margin-top: 30px;
         font-size: 14px;
+        line-height: 1.714;
+    }
+
+    #article .company dt {
+        color: #287687;
+        margin-top: 25px;
+        font-weight: 600;
+    }
+
+    #article .company dd {
+        margin-top: 25px;
+    }
+
+    /*----------
+Footer
+----------*/
+    .footer {
+        margin-top: 120px;
+        background: #29282e;
+        padding: 25px 0;
+        color: #fff;
+    }
+
+    .footer ul {
+        text-align: center;
+    }
+
+    .footer ul li {
+        position: relative;
+        display: inline-block;
+        font-size: 14px;
+        margin-left: 70px;
+    }
+
+    .footer ul li:first-child {
+        margin-left: 0;
+    }
+
+    .footer ul li::after {
+        content: "";
+        position: absolute;
+        width: 1px;
+        height: 14px;
+        background: #fff;
+        top: 50%;
+        right: -35px;
+        transform: translate(0, -50%);
+    }
+
+    .footer ul li:last-child::after {
+        content: none;
+    }
+
+    .footer ul li>a {
+        color: #fff;
+        border-bottom: 1px solid #fff;
     }
 
     .footer .copy {
         font-size: 12px;
     }
-}
 
-/*----------
-Common
-----------*/
-/* hover */
-a,
-input {
-    transition: all 0.3s;
-}
-
-a:hover,
-input[type="button"]:hover,
-input[type="submit"]:hover {
-    opacity: 0.5;
-}
-
-.main {
-    width: 700px;
-    margin: 0 auto;
-}
-
-#article .t_center,
-#article .category {
-    text-align: center;
-}
-
-#article .category {
-    position: relative;
-}
-
-#article .category::after {
-    content: "";
-    position: absolute;
-    width: 80px;
-    height: 1px;
-    background: linear-gradient(to right, #33cdc3, #c4dc04);
-    left: 50%;
-    bottom: -40px;
-    transform: translate(-50%, 0);
-}
-
-#article .category .b {
-    color: #287788;
-    font-size: 40px;
-    font-family: 'Barlow', sans-serif;
-    letter-spacing: 0.2em;
-    line-height: 1;
-}
-
-#article .category .s {
-    color: #000;
-    margin-top: 25px;
-    display: block;
-    font-size: 12px;
-    letter-spacing: 0.1em;
-}
-
-/*----------
-Top
-----------*/
-#article .top .bg01 {
-    position: relative;
-    background: url(/img/bg01.jpg) no-repeat top center;
-    /*background-attachment: fixed;*/
-    height: 100vh;
-    width: 100%;
-    z-index: -1;
-    background-size: cover;
-}
-
-#article .top .bg01::after {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 1px;
-    background: linear-gradient(to right, #32cdc8, #c8dc00);
-    bottom: 0;
-    left: 0;
-}
-
-#article .top .lead {
-    margin: 80px 0 115px;
-    font-weight: 600;
-}
-
-#article .top .catch {
-    font-size: 45px;
-    line-height: 1;
-    letter-spacing: 0.2em;
-}
-
-#article .text {
-    margin-top: 40px;
-    line-height: 2.176;
-    font-size: 17px;
-    letter-spacing: 0.1em;
-}
-
-/*----------
-Service
-----------*/
-#article .service {
-    margin-top: 60px;
-}
-
-#article .service .block {
-    margin: 50px auto;
-}
-
-#article .service .title {
-    font-size: 30px;
-}
-
-#article .service .description {
-    font-size: 16px;
-    line-height: 2;
-    margin-top: 25px;
-}
-
-#article .service .bg02 {
-    background: url(/img/bg02.jpg) no-repeat top center;
-    position: relative;
-    /*background-attachment: fixed;*/
-    height: 100vh;
-    width: 100%;
-    z-index: -1;
-    margin-top: 80px;
-    background-position-y: 50%;
-    /*background-size: cover;*/
-}
-
-#article .service .bg03 {
-    background: url(/img/bg03.jpg) no-repeat top center;
-    position: relative;
-    /*background-attachment: fixed;*/
-    height: 100vh;
-    width: 100%;
-    z-index: -1;
-    /*background-size: cover;*/
-}
-
-/*----------
-News
-----------*/
-#article .news {
-    margin-top: 80px;
-}
-
-#article .news .news_lists {
-    margin-top: 80px;
-}
-
-#article .news .excerpt {
-    border-bottom: 1px solid #e2e2e4;
-    position: relative;
-    margin-top: 20px;
-    font-size: 14px;
-}
-
-#article .news .excerpt::after {
-    content: "";
-    position: absolute;
-    width: 5px;
-    height: 5px;
-    border-top: 2px solid #000;
-    border-right: 2px solid #000;
-    top: 50%;
-    right: 10px;
-    transform: translate(0, -50%) rotate(45deg);
-    transition: all 0.3s;
-}
-
-#article .news .excerpt:hover::after {
-    opacity: 0.5;
-    cursor: pointer;
-}
-
-#article .news .excerpt>a {
-    display: flex;
-    align-items: center;
-    line-height: 1.5;
-    padding: 15px 20px 15px 15px;
-}
-
-#article .news .date {
-    display: block;
-    width: 90px;
-    margin-right: 45px;
-    font-weight: 600;
-    font-family: 'Barlow', sans-serif;
-    letter-spacing: 0.1em;
-}
-
-#article .news .content {
-    width: 500px;
-    margin-right: 30px;
-}
-
-/*----------
-Contact
-----------*/
-#article .contact {
-    margin-top: 155px;
-}
-
-#article .contact form {
-    margin-top: 80px;
-}
-
-#article .contact .form li {
-    margin-top: 30px;
-}
-
-#article .contact form .input {
-    display: block
-}
-
-#article .contact form .input>input {
-    width: 100%;
-    height: 45px;
-    outline: none;
-    box-sizing: border-box;
-    padding: 15px 20px;
-    font-size: 13px;
-    font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
-    border: 1px solid #c8c8c8;
-}
-
-#article .contact form .input>input::-webkit-input-placeholder,
-#article .contact form .input>input:-ms-input-placeholder {
-    color: #c8c8c8;
-}
-
-#article .contact textarea {
-    resize: none;
-    width: 100%;
-    height: 200px;
-    outline: none;
-    box-sizing: border-box;
-    padding: 15px 20px;
-    font-size: 13px;
-    font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
-    border: 1px solid #c8c8c8;
-}
-
-#article .contact textarea::-webkit-input-placeholder,
-#article .contact textarea:-ms-input-placeholder {
-    color: #c8c8c8;
-}
-
-#article .contact .btn {
-    text-align: center;
-    margin-top: 40px;
-}
-
-#article .contact .btn>input {
-    background: linear-gradient(to right, #33cdc5, #c4dc04);
-    border: none;
-    outline: none;
-    width: 450px;
-    height: 55px;
-    border-radius: 28px;
-    color: #fff;
-    padding: 0;
-    font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
-    font-weight: 600;
-    letter-spacing: 0.25em;
-}
-
-#article .contact .btn>input:hover {
-    cursor: pointer;
-}
-
-/*----------
-Company
-----------*/
-#article .company {
-    margin-top: 60px;
-}
-
-#article .company #map {
-    margin-top: 80px;
-    width: 100%;
-    height: 320px;
-}
-
-#article .company dl {
-    display: grid;
-    grid-template-columns: 80px 345px 80px 195px;
-    margin-top: 30px;
-    font-size: 14px;
-    line-height: 1.714;
-}
-
-#article .company dt {
-    color: #287687;
-    margin-top: 25px;
-    font-weight: 600;
-}
-
-#article .company dd {
-    margin-top: 25px;
-}
-
-/*----------
-Footer
-----------*/
-.footer {
-    margin-top: 120px;
-    background: #29282e;
-    padding: 25px 0;
-    color: #fff;
-}
-
-.footer ul {
-    text-align: center;
-}
-
-.footer ul li {
-    position: relative;
-    display: inline-block;
-    font-size: 14px;
-    margin-left: 70px;
-}
-
-.footer ul li:first-child {
-    margin-left: 0;
-}
-
-.footer ul li::after {
-    content: "";
-    position: absolute;
-    width: 1px;
-    height: 14px;
-    background: #fff;
-    top: 50%;
-    right: -35px;
-    transform: translate(0, -50%);
-}
-
-.footer ul li:last-child::after {
-    content: none;
-}
-
-.footer ul li>a {
-    color: #fff;
-    border-bottom: 1px solid #fff;
-}
-
-.footer .copy {
-    font-size: 12px;
-}
-
-.footer .copy {
-    text-align: center;
-    display: block;
-    margin-top: 15px;
-}
+    .footer .copy {
+        text-align: center;
+        display: block;
+        margin-top: 15px;
+    }
 }
 
 /*----------
