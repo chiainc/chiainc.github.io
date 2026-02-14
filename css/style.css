@@ -516,20 +516,9 @@ News
     font-family: 'Barlow',sans-serif;
     font-weight: 600;
 }
-#article .news .date_l {
-    font-family: 'Barlow',sans-serif;
-    font-weight: 600;
-    font-size: 1.4vw;
-}
 #article .news .content {
     margin-top: 2.5vw;
     width: 71.875vw;
-}
-}
-#article .news .content_l {
-    margin-top: 2.5vw;
-    width: 71.875vw;
-    font-size: 1.4vw;
 }
 /*----------
 Contact
