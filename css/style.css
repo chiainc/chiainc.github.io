@@ -21,15 +21,15 @@ PC
 ----------*/
 @media screen and (min-width: 769px) {
     #article .company dl {
-        font-size: 14px !important;
+        font-size: 14px;
     }
 
     .footer ul li {
-        font-size: 14px !important;
+        font-size: 14px;
     }
 
     .footer .copy {
-        font-size: 12px !important;
+        font-size: 12px;
     }
 }
 
