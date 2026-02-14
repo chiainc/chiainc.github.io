@@ -727,6 +727,7 @@ Company
 
     #article .company dd {
         margin-top: 2.667vw;
+        font-size: 14px;
     }
 
     /*----------
