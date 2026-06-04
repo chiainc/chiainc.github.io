@@ -279,8 +279,7 @@ If these Terms are prepared in Japanese and English, the Japanese version shall 
 ## Article 32 (Severability and Survival)
 If any provision of these Terms is held invalid, the validity of the remaining provisions shall not be affected. Even after the Service Agreement terminates, Articles 8, 10, 13, 15, 19, 21, 23, 24, 25, 26, 27, 29, 30, 31, and this Article shall remain in effect.
 
-
-
+### Contact
 To contact us with any questions or concerns in connection with these Terms or the Site, or to provide any notice under this Agreement to us please go to Contact Us.
 
 Chia Inc.
