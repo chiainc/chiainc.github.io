@@ -9,7 +9,7 @@ YOUR USE OF THE SERVICES CONSTITUTES YOUR ACCEPTANCE OF AND AGREEMENT TO COMPLY 
 
 ## Article 1 (Purpose)
 These Terms of Service (hereinafter referred to as “Terms of Service”) set forth terms and conditions applicable to all cloud services (hereinafter referred to as “Service(s)”) provided by Chia Inc. (hereinafter referred to as “Chia”).
-Users of the Services (hereinafter referred to as “User(s)”) shall use the Service pursuant to the Terms of Service.  If Users do not unconditionally agree to all of the Terms of Service, users will have no rights to use the Service and should immediately cease all such use.
+Users of the Services (hereinafter referred to as “User(s)”) shall use the Services pursuant to the Terms of Service. If Users do not unconditionally agree to all of the Terms of Service, Users will have no rights to use the Services and should immediately cease all such use.
 In addition to the provisions herein, other terms and conditions separately stipulated by Chia, such as Privacy Policy, as well as any other terms and conditions described as “Terms” contained in the website operated by Chia constitute the Terms of Service.
 Upon declaring your intent to start using the Service (including signing up, clicking a button to agree to the Terms of Service, showing your intent to use the Service by checking a checkbox, or any other similar acts), you represent and warrant that you are authorized and have full legal right to execute the Terms of Service on behalf of or representing any party agreeing to the Terms of Service (customer) and to bind such customer to the provisions set forth herein.
 
@@ -48,7 +48,7 @@ Users are responsible for the management of their own account and the security o
 Users shall, when signing up for a paid plan of the Service and when requested by Chia for User Information, promptly accommodate such requests and provide Chia with User Information. The User represents and warrants that all User information is accurate and complete at the time of registration and that the User will update User information so that it is at all times current, accurate and complete.
 
 ## Article 6 (Changes to User Information)
-Users shall immediately notify Chia of any changes to the information previously submitted by Users to Chia by contacting to Chia, or in any other manner Chia requests.
+Users shall immediately notify Chia of any changes to the information previously submitted by Users to Chia by contacting Chia, or in any other manner Chia requests.
 If Users fail to notify Chia pursuant to the preceding section (including delayed or inaccurate notification), Chia shall not be responsible for any losses or damages caused or alleged to have been caused by User’s failure to update or to provide current, accurate and complete information, including without limitation failed or delayed delivery of communications, notices, invoices, etc. sent by Chia to Users.
 
 ## Article 7 (Notice and Communication)
@@ -188,14 +188,16 @@ In no event shall Chia be liable for any losses or damages arising from the cess
 
 ## Article 18 (Changes to the Service)
 Chia may make additions, changes or deletions to the Service for its own convenience.
-Chia may terminate the provision of the Service for its own convenience. In the event of a termination of the provision of the Service, Chia will make an announcement on Chia’s website thirty (30) days prior to the termination. In the event of such termination of the provision of the Service, notwithstanding the provisions of Article 19, paragraph 5, Chia shall refund the portion of the service charge already paid that corresponds to the period during which the Service will not be provided, calculated on a prorated daily basis.
+Chia may terminate the provision of the Service for its own convenience. In the event of a termination of the provision of the Service, Chia will make an announcement on Chia’s website thirty (30) days prior to the termination. In the event of such termination of the provision of the Service, notwithstanding Article 19, paragraph 5, Chia shall refund the portion of the service charge already paid that corresponds to the period during which the Service will not be provided, calculated on a prorated daily basis.
 
 ## Article 19 (Usage charges)
 Usage charges shall be based on the price list separately stipulated by Chia.
+
 Usage charges shall be calculated and invoiced to Users by Chia. Depending on the subscription plan chosen, the User authorizes a recurring charge to the User’s credit card or other payment methods Chia otherwise specified, in exchange for use of the Services.
+
 Chia shall provide at least 30 days’ prior notice of changes to service charges. Users are deemed to have accepted such change if they continue using the Service following notification of the price change.
-Under no circumstances shall Chia refund any payments paid by Users for the Service.
-In the event of termination of the use of the Service (including switching from a paid plan to a free plan), the service charge shall not be reduced or eliminated and Users shall be responsible to pay the service charge up until the expiration of the paid plan agreement regardless of the reason for the termination (and will not receive any refund for service charges already paid by Users). However, the foregoing provision shall not apply in case of a termination pursuant to Article 18, paragraph 2.
+
+Except as provided in Article 18, paragraph 2, under no circumstances shall Chia refund any payments paid by Users for the Service. In the event of termination of the use of the Service, including switching from a paid plan to a free plan, the service charge shall not be reduced or eliminated, and Users shall remain responsible for paying the service charge until the expiration of the paid plan agreement, regardless of the reason for the termination. Users will not receive any refund for service charges already paid, except in the case of a termination pursuant to Article 18, paragraph 2.
 
 ## Article 20 (Payment of service charges)
 Payment due dates and payment methods for service charges shall be stipulated separately in the price list, displayed online; Chia will notify the User of the due date for the payment of the service charge and the manner to pay it online or by email.
