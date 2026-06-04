@@ -282,17 +282,6 @@ If these Terms are prepared in Japanese and English, the Japanese version shall 
 ## Article 32 (Severability and Survival)
 If any provision of these Terms is held invalid, the validity of the remaining provisions shall not be affected. Even after the Service Agreement terminates, Articles 8, 10, 13, 15, 19, 21, 23, 24, 25, 26, 27, 29, 30, 31, and this Article shall remain in effect.
 
-## Article 33 (Indemnity)
-Each User agrees to defend, indemnify and hold Chia, its directors, officers, employees, agents and affiliates harmless from any and all claims, liabilities, damages, costs and expenses, including reasonable attorneys’ fees, in any way arising from, related to or in connection with your use of the Site, the User’s violation of the Terms or the posting or transmission of any materials on or through the Site by the User, including, but not limited to, any third party claim that any information or materials the User provides infringes any third party proprietary right.
-
-## Article 34 (General)
-Where any part of the Terms is decided to be invalid, the other parts of the Terms shall remain valid. No joint venture, partnership, employment, or agency relationship exists between Chia and any User as a result of this Agreement or the use of the Site.
-Any claim or cause of action a User may have with respect to Chia or the Site must be commenced within one (1) year after the claim or cause of action arose.
-The failure of Chia to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision.  If any provision of the Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and the other provisions of the Terms remain in full force and effect.
-You may be able to link to third party websites (“Linked Sites”) from the Site.  Linked Sites are not, however, reviewed, controlled or examined by Chia in any way and Chia is not responsible for the content, availability, advertising, products, information or use of user information or other materials of any such Linked Sites, or any additional links contained therein.  These links do not imply Chia’s endorsement of or association with the Linked Sites.  It is your sole responsibility to comply with the appropriate terms of service of the Linked Sites as well as with any other obligation under copyright, secrecy, defamation, decency, privacy, security and export laws related to the use of such Linked Sites and any content contained thereon.  In no event shall Chia be liable, directly or indirectly, to anyone for any loss or damage arising from or occasioned by the creation or use of the Linked Sites or the information or material accessed through these Linked Sites.  You should direct any concerns to that site’s administrator or Webmaster.  Chia reserves the exclusive right, at its sole discretion, to add, change, decline or remove, without notice, any feature or link to any of the Linked Sites from the Site and/or introduce different features or links to different users.
-The Terms inure to the benefit of Chia’s successors, assigns and licensees.  The section titles in the Terms are for convenience only and have no legal or contractual effect.
-
-## Article 35 (Contacting Us)
 To contact us with any questions or concerns in connection with these Terms or the Site, or to provide any notice under this Agreement to us please go to Contact Us.
 
 Chia Inc.
