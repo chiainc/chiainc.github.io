@@ -301,9 +301,9 @@ EMAIL:
 info@chi.as
 
 Updates:
-Version 1 May 1st, 2021
-Version 2 July 1st, 2021
-Version 3 September 10th, 2021
-Version 4 April 8th, 2023
-Version 4.1 April 14th, 2023
-Version 5 June 5th, 2026
+* Version 1 May 1st, 2021
+* Version 2 July 1st, 2021
+* Version 3 September 10th, 2021
+* Version 4 April 8th, 2023
+* Version 4.1 April 14th, 2023
+* Version 5 June 5th, 2026
