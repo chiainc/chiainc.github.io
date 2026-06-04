@@ -80,9 +80,6 @@ In using the Services, Users shall not engage in any of the following acts, or a
 1. Assisting, facilitating, or inducing any of the preceding acts; or
 1. Any other act that Chia deems inappropriate.
 
-Performing any act that is related to criminal activities or that constitutes or encourages any act that would constitute a criminal offense;
-Performing acts would give rise to civil liability or otherwise violate any city, state, national or international laws or regulations; and Carrying out any other acts deemed inappropriate by Chia in its sole discretion.
-
 Customers shall not assign or otherwise transfer their status in the Terms of Service or any rights or obligations under the Terms of Service to a third party without Chia’s prior written consent. However, if a Customer undergoes a merger, etc. resulting in a comprehensive succession, the surviving company following the merger shall succeed to the Customer’s contractual status within the same scope of the service agreement as prior to such merger.
 
 Information of Users who conducted prohibited acts may be disclosed or deleted. In such an event, Users may not object to such action taken by Chia.
