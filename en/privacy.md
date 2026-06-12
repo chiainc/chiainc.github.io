@@ -5,159 +5,192 @@ title: 'Privacy Policy'
 
 # Privacy Policy
 
-Chia Inc. (“Chia”, “we”, “us” or “our”) develops and sells computer systems. In providing our services, and considering the importance of personal information, we have established a personal information protection policy to protect the individual’s rights and interests, and all board members and employees shall carry out this policy in good faith.
-“Personal information” as used in this policy shall mean any information that enables us to identify you, directly or indirectly, by reference to an identifier such as your name, identification number, location data, online identifier or one or more factors specific to you.
+Chia Inc. hereinafter referred to as Chia respects and values the privacy of its users. Our mission is to provide a place where everyone can express themselves online, and that mission should not be achieved at the expense of user privacy. In providing Chia services, we have established this Privacy Policy in light of the usefulness of personal information and for the purpose of protecting the rights and interests of individuals. Chia, including its officers and employees, will faithfully implement this policy.
 
-For the purposes of the EU General Data Protection Regulation 2016 (the “GDPR”) Chia is the controller of personal information and responsible for our services and websites, including https://chi.as, https://sensei.codes, https://komaca.app, https://biory.app, https://labs.biory.app, https://biory.page, https://yay.bio, https://poge.me, https://otokudori.jp (the “Site”).
+In this Policy, the term personal information means information that can identify you, directly or indirectly, by reference to one or more identifiers or characteristics, such as name, identification number, location data, online identifier, or other similar information.
 
-*“Controller” of personal information is defined as “person … which … determines the purposes and means of the processing of personal data” under Article 4(7) of the GDPR.
+This Policy applies to websites, applications, APIs, SaaS, and other services operated or provided by Chia. The main services covered by this Policy include https://chi.as, https://sensei.codes, https://komaca.app, https://biory.app, https://biory.page, https://yay.bio, https://poge.me, https://otokudori.jp, https://shisetsu.ai, and other services separately designated by Chia hereinafter collectively referred to as Chia Sites.
 
-## Our Personal Information Protection Policy
+Where Chia is subject to the EU General Data Protection Regulation 2016 hereinafter referred to as GDPR or other European data protection laws, Chia may act as a controller or processor under such laws with respect to personal data processed in connection with the provision of Chia services. Under Article 4(7) of the GDPR, controller means the person or entity that determines the purposes and means of the processing of personal data.
 
- 1. We will acquire, use and provide appropriate personal information, giving consideration to the business content and scale.
- 1. We will specify the purpose for which personal information will be used and take appropriate measures to ensure the use of personal information does not deviate from that purpose.
- 1. We will comply with laws regarding the protection of personal information, guidelines set by the government and other related regulations.
- 1. We will take security control measures to prevent a leak, loss, or deletion of or damage to personal information. Furthermore, we will put in place appropriate measures to handle personal information incidents, and measures to prevent the damage from spreading.
- 1. We will promptly respond to requests for the disclosure of, inquiries about and complaints regarding personal information, by establishing an enquiry desk.
- 1. We will review the security control measures in a timely manner and appropriately improve them.
+## Use from outside Japan and cross-border processing
 
-## Personal Information We Collect
-We use different methods to collect personal information from and about you including through:
+Chia, as a Japanese corporation, handles information relating to users in accordance with the Act on the Protection of Personal Information of Japan and other applicable laws and regulations.
 
-### Personal information you give us
-You may give us your personal information including your name and contact details, by filling in forms or by post, phone, email or otherwise. This includes, without limitation personal information you provide in the following instances;
+If a user uses Chia services from outside Japan, information relating to the user may be stored, processed, viewed, or managed in Japan or in any other country or region where Chia or its contractors use cloud services, payment services, email delivery services, analytics services, or other external services.
 
- * when you ask us about our services, register for use, or download materials about our services;
- * when you subscribe to our publications or newsletters;
- * when you request marketing e-mails to be sent to you;
- * when you send us feedback;
- * when you answer a questionnaire for the purpose of statistical surveys and enter sweepstakes;
- * when you apply for events, seminars, business negotiations, etc. (offline or online, hereinafter collectively referred to as “Events”) conducted by Chia, or when you answer a questionnaire during Events; and
- * when you provide customer information at the request of Chia in the case of using the Chia API.
+In handling information relating to users, Chia will implement necessary and appropriate security control measures in accordance with this Policy, Chia’s Information Security Policy, and Chia’s procedures for managing contractors.
 
-### Personal information we collect
-As you interact with our Site, we may automatically collect the following information:
+However, Chia does not guarantee compliance with all personal information protection laws, data localization regulations, communications regulations, display regulations, or other laws and regulations outside Japan that may apply in the country or region where the user is located.
 
- * information about your device and the use of a browser (including usage status, frequency of use, and length of your visit);
- * the date you accessed our Site;
- * the website you visited before visiting our Site;
- * technical information about your browser, OS type and language, IP address, and the domain name; and
- * if you access our Site from a mobile application, your mobile carrier, device identifier, type of device, performance information, app store when downloading the application, customer behavior, frequency of use, usage status when using the application (including the number of times you used the application).
+## Chia’s personal information protection policy
 
-We collect this personal information by using cookies, server logs and other similar technologies. The content collected and recorded on access logs is used as server operation information to assist in improving our Site and services, and also to provide you, depending on your usage status, with information useful to use our services or promotional information via e-mail or by other means.
+1. Chia will acquire, use, and provide appropriate personal information according to the nature and scale of its business.
+1. Chia will specify the purposes of use of personal information and will take reliable measures to ensure that personal information is not used beyond those purposes.
+1. Chia will comply with the Act on the Protection of Personal Information, guidelines established by governmental authorities, and other applicable laws and regulations.
+1. Chia will implement security control measures to prevent leakage, loss, deletion, or damage of personal information. Chia will also prepare appropriate response procedures and measures to prevent the expansion of damage in the event of an incident involving personal information.
+1. Chia will appoint a contact person and will promptly respond to requests for disclosure, inquiries, and complaints regarding personal information.
+1. Chia will review and improve its security control measures as appropriate.
 
-The content recorded on access logs is not used in conjunction with other personal information when used as server operation information, but will be used in conjunction with your user information and e-mail address where information is to be provided to you via e-mail or by other means.
+## What personal information does Chia collect?
+
+The personal information that Chia collects from you and the methods by which Chia collects personal information about you are as follows.
+
+### Personal information provided by you to Chia
+
+You may provide personal information, including your name and contact details, by filling out forms or by communicating with Chia by mail, telephone, email, or other means. This includes, but is not limited to, personal information provided in the following cases:
+
+- When you inquire about Chia services, register to use them, or download or otherwise obtain explanatory materials concerning Chia services
+- When you subscribe to Chia publications or newsletters
+- When you request promotional materials
+- When you provide feedback
+- When you respond to user surveys for statistical research purposes or apply for prize campaigns
+- When you apply to participate in events, seminars, business meetings, or other activities conducted by Chia, whether offline or online, hereinafter referred to as Events, or when you fill out or respond to questionnaires at such Events
+- When you provide information requested by Chia in connection with your use of Chia APIs
+- When you view content on social media platforms
+
+### Personal information collected by Chia
+
+When you access Chia Sites, the following information is automatically collected:
+
+- Information about your device
+- Browsing behavior and patterns, including your usage status, frequency of use, and time spent
+- Date of access to Chia Sites
+- Websites viewed by you before accessing Chia Sites
+- Technical information concerning your browser, operating system type and language, IP address, and domain name
+- If you access Chia Sites through a mobile application, information concerning your mobile carrier, device identifier, type of device used, performance information, the app store used to download the application, and your behavior, frequency of use, and usage status in the application, including aggregated counts
+
+This personal information is collected through cookies, server logs, and other similar technologies. The contents collected and recorded in access logs are used as server operation information to improve Chia Sites and services. They may also be used to send you, by email or other means, information useful for your use of Chia services or promotional information based on your usage status.
+
+When such information is used as server operation information, it will not be linked to personal information. However, when email notices are sent to you, such information may be linked to your user information and email address.
+
+You may disable cookies through your browser settings, but doing so may make all or part of the services on the website unavailable.
 
 ## Cookies
-Like many websites, we use a tool called ‘Cookies’ to make our Site more convenient for our customers.
 
-Cookies are files that are stored on your computer or mobile device when you browse our Site.
+Like many other websites, Chia uses tools called cookies to make Chia Sites more convenient for users. The term cookies as used by Chia also includes HTML5 local storage and other similar technologies used to record or collect information about devices.
 
-We mainly use Cookies for the following purposes.
+Cookies are small data files transferred between a web server and your web browser and stored as files on your computer disk or mobile device.
 
- * When you use the service, you do not have to enter a password every time.
- * We use Cookies to deliver personalized experiences on our Site and services to our customers.
- * Cookies are used to analyze our customers’ activities in our services (we may use the results of our analysis to make you offers or for promotions).
+Chia primarily uses cookies for the following purposes:
 
-Please see our Cokie Policy for further details on Cookies.
+- To allow you to use the services without entering your email address each time
+- To provide specifications tailored to each user on Chia Sites and Chia services
+- To help Chia understand user activities in connection with the use of Chia services for analytical purposes, the results of which may be used for notices or promotional activities to users
 
-## Our Purposes For Processing Personal Information
-We will process your personal information for the following purposes:
+You may disable cookies by selecting the appropriate settings in your browser. However, please note that doing so may prevent you from using all or part of Chia Sites or services.
 
- * To confirm your identity;
- * To confirm your eligibility to use Chia services (including, but not limited to requirements that you be over 18 years old and not be Anti-Social Force(s));
- * To respond to your questions and provide related customer services;
- * To prevent fraud or other financial crime;
- * To monitor and protect the security of our information, systems and network;
- * To conduct research and product development and enhancement;
- * To inform you of changes made to our Site and other services;
- * To conduct marketing activities;
- * To effectively present content from our Site;
- * To provide content matching with your interests;
- * To enable you to search for information on our Site;
- * To assess your needs and interests in order to better tailor offers and advertising;
- * To improve the convenience of our Site;
- * To provide questionnaires for the purpose of statistical surveys and to offer sweepstakes (the answers to questionnaires may be made public in the form of statistical information that does not allow a specific individual to be identified); and
- * To confirm your eligibility to use our real store.
+Chia may permit third parties selected by Chia to place cookies on Chia Sites for the purpose of analyzing usage trends and user groups of Chia Sites or providing advertisements relevant to you. Such third parties may collect information about the time users spend engaging in online activities when using Chia websites and about movement to other websites. Chia does not use technology that recognizes do-not-track signals from your web browser.
 
-## Emails
-We may send out emails to you for the purpose of providing our services, contents or functions, researching, providing news, promotions, and announcing events. Our customers may opt-out of receiving these emails. We may use a third-party provided service to send out emails or to communicate smoothly with our customers. We may share information, such as your email address, with the third-party service provider only to the extent necessary for this purpose.
+## Purposes of Chia’s handling of personal information
 
-## Sharing Personal Information
-We will protect your personal information as being strictly confidential. We may share your personal information with the parties set out below for the purposes set out in this policy:
+Chia handles your personal information for the following purposes. Handling includes collection, recording, editing, structuring, storage, modification, retrieval, reference, use, disclosure by transmission, distribution, alignment, combination, restriction, erasure, and destruction.
 
- * A member of our group;
- * Our professional advisors such as auditing firms, accountants and lawyers, etc.;
- * Companies that provide services to help us with our business activities, such as data storage, maintenance services, database management, web analytics and payment processing; and
- * Companies that succeed to our business or assets due to an organizational restructuring or a business transfer or the like.
+- To identify you
+- To confirm that you are eligible to use Chia services, including confirming that you are at least 18 years old and are not an anti-social force
+- To respond to your questions and provide related customer service
+- To detect and prevent fraud and other financial crimes
+- To monitor and protect Chia information, systems, and networks
+- To conduct research and product development and improvement for internal business research purposes
+- To notify you of changes to Chia Sites and other services
+- To conduct promotional and commercial activities and provide sales-related offers and advertisements to you
+- To present content from Chia Sites in the most effective manner for you and your computer
+- To present content based on your interests
+- To enable you to search for information on Chia Sites
+- To identify your needs and interests in order to provide more suitable proposals and advertisements
+- To improve Chia Sites
+- To handle your participation in surveys for statistical research purposes and applications for prize campaigns, provided that survey responses may be published as statistical data in a format that does not identify any specific individual
+- To verify identity when using physical stores
 
-We may also disclose your personal information to the extent required by law when it is necessary to disclose your personal information as required by law such as to protect your safety or the safety of others, investigate crimes, or respond to a request by the government or any other third party. Furthermore, we will notify you of any provision of your personal information to respond to a request by the government or a third party unless notification is prohibited by the applicable law.
+## Email
 
-We require all third parties to process personal information in a secure manner in accordance with the law. Furthermore, we require third-parties outsourced to process personal information to process your personal information only for the purposes of outsourcing and in accordance with our instructions.
+Chia may send emails for the purpose of announcing Chia services, features, research, news, promotions, content, and events. You may choose not to receive such emails.
 
-Where the GDPR applies to the processing of your personal information and your personal information is shared with a third party located in a country that has not received an adequacy decision by the European Commission, we will take appropriate security measures, such as the European Commission-approved Standard Contractual Clauses. You can confirm the details of the security measures (including a copy of the Standard Contractual Clauses) by contacting using the Contact Us page on our Site.
+Chia may use third-party services to send emails or communicate smoothly with you. For smoother communication, Chia may provide your email address and other information to third-party service providers solely for this purpose.
 
-## Retention Period of Personal Information
+## To whom does Chia provide information?
 
-We will store your personal information, in a form which permits us to identify you, for no longer than is necessary for the purpose for which the personal information is processed. Furthermore, we will store your personal information as necessary to comply with our legal obligations, resolve disputes, or enforce our rights, or if it is technically difficult to remove it immediately.
+Your personal information will be treated as strictly confidential. For the purposes set forth in this Policy, Chia may provide your personal information to the following parties:
 
-## Security Control Measures
+- Chia group companies
+- Chia auditors, accountants, attorneys, and other professionals
+- Companies that provide services supporting Chia’s business activities, such as data storage, maintenance services, database management, web analytics, customer relations, and payment processing
+- Third parties selected by Chia for the sale, transfer, or integration of part of Chia’s business or assets, or companies involved where Chia acquires or integrates another company. If any change occurs in Chia’s business, the new owner will use your personal information in the same manner as provided in this Policy.
 
-We will take security control measures to prevent a leak, loss, or deletion of or damage to personal information. Furthermore, we will put in place appropriate measures to handle personal information incidents, and measures to prevent the damage from spreading. The security control measures we will take include executing appropriate agreements with outsourced parties or employees and supervising them. Where we process personal information overseas, we will learn about the systems of that foreign country that protect personal information and take appropriate security control measures. We will review the security control measures in a timely manner and appropriately improve them.
+Chia may disclose your personal information as a legal obligation, such as in response to a subpoena or similar court proceeding, when Chia believes disclosure is necessary to protect the rights of Chia or the safety of you or third parties, to investigate fraud, or in response to inquiries from non-governmental third parties when disclosure is deemed necessary. In the case of inquiries from non-governmental third parties, Chia will obtain your prior consent before disclosing your personal information unless notice is prohibited by applicable law.
 
-## SSL/TLS
-Our Site uses ‘SSL/TLS’ to protect personal information. By using a browser that supports security functions, when you access our Site and enter personal information including your name and e-mail address, and this personal information is transmitted to our server, SSL/TLS will enable the personal information to be automatically encrypted. Therefore, if the personal information you transmitted is intercepted by a third party, there is no need to worry about the content being stolen.
+Chia requires all third parties to respect the security of your personal information and to handle it in accordance with applicable laws. Chia does not permit third-party service providers to use your personal information for their own purposes and permits them to handle your personal information only for specified purposes and in accordance with Chia’s instructions.
 
-If you use a browser that does not support SSL, you may not be able to access our Site or load information.
+When personal data relating to users located in the European Economic Area, the United Kingdom, or Switzerland is transferred to a country or region whose level of protection is not recognized under an adequacy decision or other equivalent mechanism, Chia will conduct such transfer in accordance with applicable data protection laws and will rely on standard contractual clauses or other appropriate safeguards.
 
-## Legal Basis for Processing Personal Information
-Where the GDPR is to apply to the processing of your personal information, we process personal information about you only where we have the following legal basis for doing so:
+Chia is an international company headquartered in Japan. Chia also works with third-party service providers in various countries, such as cloud providers, web hosting providers, help desk software providers, and payment processors. As part of Chia’s business operations, your information may be transferred outside the European Economic Area and stored or processed in other countries, including Japan, Singapore, and the United States. When using Chia Sites, user information may be stored or processed in Japan, Singapore, the United States, or other countries or regions to the extent necessary for Chia’s business operations. When personal information is transferred from the EEA to a country that has not received an adequacy decision from the European Commission, Chia will rely on appropriate safeguards for data transfer, such as standard contractual clauses approved by the European Commission.
 
- * Agreement: where we need to process your personal information to perform an agreement we executed with you.
- * Legal obligation: where we need to process your personal information to comply with a legal obligation.
- * Legitimate interest: where we need to process your personal information for our legitimate interests or those of a third party, and they are not overridden by your interests and fundamental rights.
- * Consent: where you give us consent to process personal information. You may withdraw your consent at any time, but withdrawing your consent will not affect the lawfulness of the processing of your personal information based on the consent you gave before your withdrawal.
+## How long is information retained?
 
-If you have any questions regarding the details of the legitimate interests, please contact us using the Contact Us page on our Site.
+Chia retains personal information in a form that can identify you only for as long as necessary for the purposes for which the personal information is handled.
 
-## Your Rights
-You have multiple legal rights in relation to your personal information we hold about you. These rights may change according to data protection laws and regulations applied in relation to your location and the relationship between you and Chia, but typically include the following.
+Chia may use your personal information to the extent necessary to comply with legal obligations, resolve disputes, and enforce agreements and rights, or where it is not technically reasonably possible to remove the information elsewhere. In other cases, Chia will delete your personal information within a reasonable period after receiving a request.
 
-### Right of access to personal information.
-You may have the right to request access to related information, including personal information we hold about you, the purposes for processing the personal information, the recipients or categories of recipients with whom the personal information has been shared, the period for which the personal information will be stored (if impossible, the basis used to determine that period), the right to object to competent authorities, the source of the personal information, and the existence of any automated decision making.
+## SSL
 
-### Right to correct personal information. 
-You may have the right to request that Chia correct any inaccurate or incomplete personal information about you.
+Chia Sites use SSL to protect personal information. When you access Chia Sites using a browser with security functions and enter personal information, including your name and email address, and such personal information is transmitted to Chia servers, the personal information is automatically encrypted when sent to and received by the server. Therefore, even if transmitted data is intercepted by a third party, the contents are protected from being read.
 
-### Right to erase personal information.
-You may have the right to request that Chia erase personal information about you under certain circumstances, including the following circumstances.
+If you use a browser that does not support SSL, you may not be able to access Chia Sites or input information.
 
- * If it is no longer necessary for Chia to store your personal information, in light of the purpose for collecting the personal information.
- * If Chia may process personal information only on the basis of your consent, and you withdraw your consent.
- * If you object to Chia’s processing of personal information on the grounds of legitimate interests, and those legitimate interests do not override your interests, rights and freedom.
+## Privacy rights in Europe
 
-### Right to request that the processing of personal information be restricted.
-You may have the right to restrict the processing of your personal information under certain circumstances, including the following circumstances.
+This section applies only to residents of Europe.
 
- * If you object to the accuracy of your personal information yourself (limited to the period necessary for Chia to confirm the accuracy of personal information).
- * If it is no longer necessary for Chia to process personal information for purposes other than filing for or exercising legal claims, or to defend the same.
- * If you object to Chia’s processing of personal information on the grounds of legitimate interests (limited to the period necessary to determine whether the legitimate interest overrides your interests, rights and freedom.).
+Chia collects and handles your personal information only where there is a legal basis for handling personal information under data protection laws, including the GDPR. The legal basis depends on the purposes for which Chia handles your personal information as described above. Chia collects and uses your personal information only in the following cases:
 
-### Right to object.
-You may have the right to object to Chia regarding the processing of your personal information.
+- Where necessary to provide services, including operation of Chia Sites, customer support, provision of customer-specific products, and ensuring the safety and security of Chia Sites
+- Where necessary for Chia’s legitimate interests, such as research and development, marketing and promotion of Chia Sites, and protection of Chia’s legal rights and interests, to the extent that your rights and interests are not harmed
+- Where you have consented to collection and use for a specific purpose
+- Where handling of your personal information is necessary to comply with legal obligations
 
-### Right of data portability.
-If Chia processes personal information provided by you on the legal basis of consent or an agreement, you may have the right to request that you receive personal information in structured and generally used, and machine-readable form, or that the personal information be transferred directly to a third party to the extent this is technically feasible for Chia.
+Even if you have consented to the use of personal information for a specific purpose, you have the right to change your mind at any time.
 
-Where you believe that we have not complied with our obligations under this policy or the GDPR, you have the right to make a complaint to the relevant data protection authorities.
+Chia may also use your email address to send newsletters and promotional emails. Chia will request your consent in accordance with law when you first provide personal information. You may opt out by following the unsubscribe instructions in such emails or by contacting Chia through the inquiry function on Chia Sites.
 
-## Contact Us
-If you have any questions regarding this policy, please contact us using the Contact Us page on our Site.
+In certain circumstances, you may have rights under the GDPR with respect to your personal information. However, these data privacy rights do not apply to Chia where Chia handles your personal information as a processor on behalf of Chia’s customer. In such case, you should exercise your European data privacy rights against Chia’s customer, namely the controller of the personal data as defined in Article 4(7) of the GDPR.
 
-## Changes To This Policy
-We may update this policy. In case of material updates, we will notify you on our Site in advance. Please periodically confirm this policy to obtain the latest information about our processing of personal information.
+### Request for access to personal information
 
-## Updates
- * Version 1 May 1st 2021 Enacted
- * Version 2 Oct 20th 2022
- * Version 3 Apr 8th 2023
+You may have the right to request access to the personal information held by Chia about you and to related information, including the purposes of handling, the recipients or categories of recipients of personal information, where possible the retention period of the personal information, the source of the personal information, and whether automated decision-making systems exist.
+
+### Request for correction of personal information
+
+You may have the right to have Chia correct inaccurate portions of your personal information without undue delay.
+
+### Request for erasure of personal information
+
+You may have the right to request erasure of your personal information.
+
+### Request for restriction of handling of personal information
+
+You may have the right to prohibit or restrict the handling of your personal information.
+
+### Request for transfer of personal information
+
+Where technically feasible, you may have the right to have your personal information transferred directly to a third party.
+
+If you believe that Chia has not complied with this Policy or its obligations under the GDPR, you have the right to lodge a complaint with an EU data protection authority.
+
+## Contact
+
+If you have any questions regarding this Policy or its implementation, please contact Chia through the inquiry page on Chia Sites.
+
+## Changes to this Policy
+
+Chia may revise this Policy due to changes in Chia’s information management practices. If there is a material revision, Chia will notify users by posting a notice on Chia Sites before the revision becomes effective. Please review this page periodically for the latest information regarding Chia’s personal information protection practices.
+
+## Effective date and revision history
+
+- Established and effective on July 3, 2017
+- Revised and effective on April 1, 2019
+- Revised and effective on May 31, 2021
+- Revised and effective on October 20, 2022
+- Revised and effective on April 8, 2023
+- Revised and effective on June 13, 2026
+
+Chia Inc.
